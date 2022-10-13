@@ -1,19 +1,14 @@
-# projeto
+# Restaurante Vue
 
 ## Project setup
-```
-npm install
-```
+$ git clone https://github.com/gransottodev/Restaurante-Vue.git
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This application is divided into front and "back" (I used JSON Server to perform the back-end role
 
-### Compiles and minifies for production
-```
-npm run build
-```
+To initialize the front use:
+$ npm run serves
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To initialize the JSON server use:
+$npm run back
+
+
